@@ -1,0 +1,938 @@
+{
+  "techreborn:recipes/crafting_table/machine/gas_turbine_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_casing_alt": {
+    "criteria": {
+      "has_chromium_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/compacting_drawers": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/tin_cable": {
+    "criteria": {
+      "has_tin_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_drill": {
+    "criteria": {
+      "has_the_recipe": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/diamond_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/ingot/iridium_alloy_ingot": {
+    "criteria": {
+      "has_iridium_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/remote_group_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-10-20 17:20:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_casing": {
+    "criteria": {
+      "has_chromium_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "senti:register": {
+    "criteria": {
+      "requirement": "2025-10-20 17:20:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_apple": {
+    "criteria": {
+      "has_apple": "2025-10-20 17:24:14 +0000"
+    },
+    "done": true
+  },
+  "backpacks:tree/root": {
+    "criteria": {
+      "requirement": "2025-10-20 17:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-10-20 17:24:06 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/vacuum_freezer": {
+    "criteria": {
+      "has_steel_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/remote_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/chemical_reactor": {
+    "criteria": {
+      "has_invar_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_puller": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/elevator": {
+    "criteria": {
+      "has_enderpearl_dusts": "2025-10-20 17:21:50 +0000",
+      "has_zinc_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-10-20 17:24:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_saplings": {
+    "criteria": {
+      "has_sapling": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key_cofh": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
+    "criteria": {
+      "has_steel_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/paper": {
+    "criteria": {
+      "has_saw_dust": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_trim": {
+    "criteria": {
+      "has_planks": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_trim": {
+    "criteria": {
+      "has_planks": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/priority_key": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
+    "criteria": {
+      "has_iron_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/painting_tool": {
+    "criteria": {
+      "has_bronze_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/shroud_key": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/fishing_station": {
+    "criteria": {
+      "has_sapphire_plates": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/iridium_neutron_reflector": {
+    "criteria": {
+      "has_iridium_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_frame": {
+    "criteria": {
+      "has_titanium_plate": "2025-10-20 17:21:50 +0000",
+      "has_chromium_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/portability_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
+    "criteria": {
+      "has_tungstensteel_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/upgrade_template": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_key": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/advanced_chainsaw": {
+    "criteria": {
+      "has_titanium_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_trim": {
+    "criteria": {
+      "has_planks": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/tungsten_grinding_head": {
+    "criteria": {
+      "has_steel_block": "2025-10-20 17:21:50 +0000",
+      "has_tungsten_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-10-20 17:24:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/lapotron_crystal": {
+    "criteria": {
+      "has_lazurite_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/iridium_reinforced_stone_storage_block": {
+    "criteria": {
+      "has_the_recipe": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_4": {
+    "criteria": {
+      "has_diamond_dust": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_3": {
+    "criteria": {
+      "has_ruby_dust": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_8": {
+    "criteria": {
+      "has_electrum_dust": "2025-10-20 17:21:50 +0000",
+      "has_diamond_dust": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
+    "criteria": {
+      "has_diamond_dust": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/framing_table": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
+    "criteria": {
+      "has_steel_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_chainsaw": {
+    "criteria": {
+      "has_the_recipe": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "senti:tick": {
+    "criteria": {
+      "requirement": "2025-10-20 17:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
+    "criteria": {
+      "has_barrel": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/keyring": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
+    "criteria": {
+      "has_grass_variant": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/gravel": {
+    "criteria": {
+      "has_granite_dust": "2025-10-20 17:21:50 +0000",
+      "has_andesite_dust": "2025-10-20 17:21:50 +0000",
+      "has_diorite_dust": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot": {
+    "criteria": {
+      "has_bronze_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/carbon_fiber": {
+    "criteria": {
+      "has_coal_dust": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/storage_buffer": {
+    "criteria": {
+      "has_wood_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/semi_fluid_generator_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-10-20 17:24:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/reinforced_glass_alt": {
+    "criteria": {
+      "has_lead_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/assembling_machine": {
+    "criteria": {
+      "has_electrum_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/basic_display": {
+    "criteria": {
+      "has_refined_iron_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/launchpad": {
+    "criteria": {
+      "has_magnalium_plates": "2025-10-20 17:21:50 +0000",
+      "has_zinc_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/digital_display": {
+    "criteria": {
+      "has_aluminium_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/lapotronic_orb": {
+    "criteria": {
+      "has_iridium_alloy_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_leaves": {
+    "criteria": {
+      "has_leaves": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/detached_drawer": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/neutron_reflector": {
+    "criteria": {
+      "has_tin_plate": "2025-10-20 17:21:50 +0000",
+      "has_copper_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/treetap": {
+    "criteria": {
+      "has_planks": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
+    "criteria": {
+      "has_the_recipe": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/energy_flow_chip": {
+    "criteria": {
+      "has_iridium_alloy_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/water_coolant_cell_10k": {
+    "criteria": {
+      "has_tin_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_trim": {
+    "criteria": {
+      "has_planks": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/void_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_trim": {
+    "criteria": {
+      "has_planks": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/data_storage_core": {
+    "criteria": {
+      "has_peridot_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_trim": {
+    "criteria": {
+      "has_planks": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot_alt": {
+    "criteria": {
+      "has_brass_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/advanced_jackhammer": {
+    "criteria": {
+      "has_titanium_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
+    "criteria": {
+      "has_refined_iron": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-10-20 17:24:06 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_trim": {
+    "criteria": {
+      "has_planks": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/wrench": {
+    "criteria": {
+      "has_bronze_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller_io": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-10-20 17:24:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_leggings": {
+    "criteria": {
+      "has_tungstensteel_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/iridium_reinforced_tungstensteel_storage_block_alt": {
+    "criteria": {
+      "has_tungstensteel_ingot": "2025-10-20 17:21:50 +0000",
+      "has_iridium_reinforced_stone_block": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-10-20 17:24:06 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/methan_cell_from_apple": {
+    "criteria": {
+      "has_apple": "2025-10-20 17:24:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cell": {
+    "criteria": {
+      "has_tin_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_trim": {
+    "criteria": {
+      "has_planks": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-10-20 17:24:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/reinforced_glass": {
+    "criteria": {
+      "has_lead_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_cobblestone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/redstone_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_trim": {
+    "criteria": {
+      "has_planks": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/red_cell_battery": {
+    "criteria": {
+      "has_lead_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/lithium_ion_batpack": {
+    "criteria": {
+      "has_aluminum_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/quantify_key": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_trim": {
+    "criteria": {
+      "has_planks": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_trim": {
+    "criteria": {
+      "has_planks": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/emerald_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/obsidian_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/diesel_generator_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-10-20 17:20:13 +0000",
+      "minecraft:river": "2025-10-20 17:24:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/balance_fill_upgrade": {
+    "criteria": {
+      "has_template": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing_alt": {
+    "criteria": {
+      "has_steel_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-10-20 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_centrifuge_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/iridium_reinforced_tungstensteel_storage_block": {
+    "criteria": {
+      "has_iridium_plate": "2025-10-20 17:21:50 +0000",
+      "has_tungstensteel_block": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/data_storage_chip": {
+    "criteria": {
+      "has_iridium_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/wood_plate": {
+    "criteria": {
+      "has_planks": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/red_sand": {
+    "criteria": {
+      "has_netherrack_dust": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/advanced_drill": {
+    "criteria": {
+      "has_titanium_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
+    "criteria": {
+      "has_steel_ingot": "2025-10-20 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-10-20 17:24:06 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

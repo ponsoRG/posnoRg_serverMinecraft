@@ -1,0 +1,557 @@
+[00:00:07] [Server thread/INFO]: juam_RG[/127.183.253.226:46631] logged in with entity id 491 at (-256.5, 77.0, 124.5)
+[00:00:07] [Server thread/INFO]: juam_RG joined the game
+[00:00:07] [Server thread/INFO]: Sending item configs to client
+[00:00:09] [Server thread/WARN]: Could not equip item '1 artifacts:night_vision_goggles' on spawned entity 'class_1613['Skeleton'/554, l='ServerLevel[world]', x=-269.50, y=30.00, z=146.50]'
+[00:00:09] [Server thread/INFO]: [voicechat] Received secret request of juam_RG (20)
+[00:00:09] [Server thread/INFO]: [voicechat] Sent secret to juam_RG
+[00:00:15] [Server thread/INFO]: Made juam_RG a server operator
+[00:00:53] [Server thread/INFO]: Made JoseHernandez no longer a server operator
+[00:01:05] [Server thread/INFO]: JoseHernandez was killed
+[00:01:05] [Server thread/INFO]: [juam_RG: Killed JoseHernandez]
+[00:02:02] [Server thread/INFO]: [juam_RG: Set JoseHernandez's game mode to Survival Mode]
+[00:02:23] [Server thread/INFO]: [juam_RG: Revoked 4029 advancements from JoseHernandez]
+[00:02:32] [Server thread/INFO]: JoseHernandez was killed
+[00:02:32] [Server thread/INFO]: [juam_RG: Killed JoseHernandez]
+[00:02:40] [Server thread/INFO]: JoseHernandez lost connection: Disconnected
+[00:02:40] [Server thread/INFO]: JoseHernandez left the game
+[00:02:40] [Server thread/INFO]: [voicechat] Disconnecting client JoseHernandez
+[00:02:46] [Server thread/INFO]: juam_RG was killed
+[00:02:46] [Server thread/INFO]: [juam_RG: Killed juam_RG]
+[00:02:54] [Server thread/INFO]: [juam_RG: Set the time to 1]
+[00:02:55] [Server thread/INFO]: juam_RG lost connection: Disconnected
+[00:02:55] [Server thread/INFO]: juam_RG left the game
+[00:02:55] [Server thread/INFO]: [voicechat] Disconnecting client juam_RG
+[00:05:15] [Server thread/INFO]: juam_RG[/127.183.253.226:55203] logged in with entity id 1191 at (-256.5, 77.0, 124.5)
+[00:05:15] [Server thread/INFO]: juam_RG joined the game
+[00:05:15] [Server thread/INFO]: Sending item configs to client
+[00:05:15] [Server thread/INFO]: [voicechat] Received secret request of juam_RG (20)
+[00:05:15] [Server thread/INFO]: [voicechat] Sent secret to juam_RG
+[00:06:48] [Server thread/INFO]: JoseHernandez[/127.183.253.226:35465] logged in with entity id 1583 at (-256.5, 77.0, 124.5)
+[00:06:48] [Server thread/INFO]: JoseHernandez joined the game
+[00:06:49] [Server thread/INFO]: Sending item configs to client
+[00:06:49] [Server thread/INFO]: [voicechat] Received secret request of JoseHernandez (20)
+[00:06:49] [Server thread/INFO]: [voicechat] Sent secret to JoseHernandez
+[00:12:43] [Server thread/INFO]: JoseHernandez has made the advancement [Stone Age]
+[00:12:54] [Server thread/INFO]: JoseHernandez has made the advancement [Getting an Upgrade]
+[00:12:57] [Server thread/INFO]: juam_RG has made the advancement [Stone Age]
+[00:13:19] [Server thread/INFO]: juam_RG has made the advancement [Getting an Upgrade]
+[00:14:08] [Server thread/WARN]: Could not equip item '1 artifacts:snorkel' on spawned entity 'class_1551['Drowned'/3663, l='ServerLevel[world]', x=-434.50, y=57.00, z=41.50]'
+[00:14:50] [Server thread/INFO]: juam_RG has made the advancement [Monster Hunter]
+[00:14:52] [Server thread/INFO]: JoseHernandez has made the advancement [Monster Hunter]
+[00:15:48] [Server thread/INFO]: juam_RG was slain by JoseHernandez
+[00:17:48] [Server thread/INFO]: juam_RG has made the advancement [Sweet Dreams]
+[00:18:07] [Server thread/INFO]: JoseHernandez has made the advancement [Sweet Dreams]
+[00:18:10] [Server thread/INFO]: juam_RG was killed by Witch using magic
+[00:23:28] [Server thread/WARN]: Could not equip item '1 artifacts:cowboy_hat' on spawned entity 'class_1642['Zombie'/6664, l='ServerLevel[world]', x=-312.50, y=-21.00, z=-250.50]'
+[00:27:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-321, y=64, z=-312} class_2338{x=-322, y=62, z=-313}
+[00:33:05] [Server thread/INFO]: JoseHernandez has made the advancement [Acquire Hardware]
+[00:33:27] [Server thread/INFO]: JoseHernandez has made the advancement [Isn't It Iron Pick]
+[00:33:44] [Server thread/INFO]: JoseHernandez has made the advancement [Tech Reborn]
+[00:34:06] [Server thread/INFO]: juam_RG has made the advancement [Acquire Hardware]
+[00:35:12] [Server thread/WARN]: Could not equip item '1 artifacts:scarf_of_invisibility' on spawned entity 'class_1642['Zombie'/9497, l='ServerLevel[world]', x=-298.50, y=69.00, z=-228.50]'
+[00:37:40] [Server thread/INFO]: juam_RG has made the advancement [Isn't It Iron Pick]
+[00:37:46] [Server thread/INFO]: juam_RG has made the advancement [Suit Up]
+[00:39:51] [Server thread/INFO]: juam_RG was slain by Zombie
+[00:39:51] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[00:39:51] [Server thread/ERROR]: Combo count: 0 is dual wielding: false
+[00:39:51] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[00:39:51] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[00:39:51] [Server thread/ERROR]: Selected slot server: 0 | client: 0
+[00:40:05] [Server thread/WARN]: Could not equip item '1 artifacts:night_vision_goggles' on spawned entity 'class_1613['Skeleton'/11390, l='ServerLevel[world]', x=-230.50, y=33.00, z=168.50]'
+[00:40:10] [Server thread/INFO]: JoseHernandez has made the advancement [Suit Up]
+[01:01:05] [Server thread/WARN]: Could not equip item '1 artifacts:flame_pendant' on spawned entity 'class_1613['Skeleton'/17774, l='ServerLevel[world]', x=-400.50, y=-46.00, z=-141.50]'
+[01:01:29] [Server thread/INFO]: juam_RG has made the advancement [Tech Reborn]
+[01:06:00] [Server thread/WARN]: Could not equip item '1 artifacts:bunny_hoppers' on spawned entity 'class_1642['Zombie'/21372, l='ServerLevel[world]', x=-14.50, y=51.00, z=-196.50]'
+[01:08:55] [Server thread/INFO]: JoseHernandez has made the advancement [Best Friends Forever]
+[01:13:30] [Server thread/INFO]: [juam_RG: Set own game mode to Spectator Mode]
+[01:13:32] [Server thread/INFO]: [juam_RG: Set own game mode to Survival Mode]
+[01:15:15] [Server thread/WARN]: Could not equip item '1 artifacts:night_vision_goggles' on spawned entity 'class_1613['Skeleton'/27034, l='ServerLevel[world]', x=-223.50, y=64.00, z=-435.50]'
+[01:24:27] [Server thread/INFO]: JoseHernandez went off with a bang
+[01:25:19] [Server thread/INFO]: [juam_RG: Gamerule keepInventory is now set to: true]
+[01:26:14] [Server thread/INFO]: juam_RG has made the advancement [Not Today, Thank You]
+[01:27:51] [Server thread/INFO]: juam_RG was slain by Vindicator
+[01:28:34] [Server thread/INFO]: juam_RG was slain by Zombie
+[01:30:43] [Server thread/INFO]: juam_RG has made the advancement [Cover Me with Diamonds]
+[01:30:52] [Server thread/INFO]: juam_RG was slain by Zombie
+[01:30:58] [Server thread/INFO]: JoseHernandez has made the advancement [Cover Me with Diamonds]
+[01:31:08] [Server thread/INFO]: [juam_RG: Set own game mode to Spectator Mode]
+[01:31:08] [Server thread/INFO]: [juam_RG: Set own game mode to Survival Mode]
+[01:31:37] [Server thread/INFO]: juam_RG has made the advancement [Diamonds!]
+[01:31:40] [Server thread/INFO]: juam_RG was slain by Hoglin
+[01:31:47] [Server thread/INFO]: [juam_RG: Set own game mode to Spectator Mode]
+[01:31:48] [Server thread/INFO]: [juam_RG: Set own game mode to Survival Mode]
+[01:32:08] [Server thread/INFO]: JoseHernandez was slain by Zombie
+[01:33:54] [Server thread/INFO]: juam_RG went off with a bang
+[01:35:33] [Server thread/WARN]: Could not equip item '1 artifacts:scarf_of_invisibility' on spawned entity 'class_1642['Zombie'/44624, l='ServerLevel[world]', x=-74.50, y=-18.00, z=66.50]'
+[01:35:41] [Server thread/INFO]: JoseHernandez was burned to a crisp while fighting Zombie
+[01:36:34] [Server thread/INFO]: juam_RG was slain by Zombie
+[01:36:53] [Server thread/INFO]: JoseHernandez was slain by Zombie
+[01:40:31] [Server thread/INFO]: juam_RG was slain by Zombie
+[01:41:36] [Server thread/INFO]: JoseHernandez has made the advancement [Not Today, Thank You]
+[01:42:30] [Server thread/INFO]: JoseHernandez has made the advancement [Diamonds!]
+[01:47:42] [Server thread/WARN]: Could not equip item '1 artifacts:cowboy_hat' on spawned entity 'class_1642['Zombie'/56786, l='ServerLevel[world]', x=60.50, y=-13.00, z=-32.50]'
+[01:55:52] [Server thread/WARN]: Acacia Boat (vehicle of JoseHernandez) moved wrongly! 0.2677784131892338
+[01:56:22] [Server thread/INFO]: juam_RG has made the advancement [Ol' Betsy]
+[02:02:55] [Server thread/INFO]: [juam_RG: Set own game mode to Spectator Mode]
+[02:02:56] [Server thread/INFO]: [juam_RG: Set own game mode to Survival Mode]
+[02:03:14] [Server thread/INFO]: juam_RG was slain by JoseHernandez
+[02:04:28] [Server thread/INFO]: [juam_RG: Set own game mode to Spectator Mode]
+[02:04:30] [Server thread/INFO]: [juam_RG: Set own game mode to Survival Mode]
+[02:07:46] [Server thread/WARN]: Could not equip item '1 artifacts:night_vision_goggles' on spawned entity 'class_1613['Skeleton'/66096, l='ServerLevel[world]', x=1.50, y=70.00, z=1.50]'
+[02:12:32] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:12:32] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:12:32] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:12:32] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:12:32] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:12:32] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:12:32] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:12:32] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:12:44] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:12:44] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:12:44] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:12:44] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:12:44] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:13:15] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=6, y=109, z=560}
+[02:13:15] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=6, y=114, z=567}
+[02:13:15] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=6, y=109, z=571}
+[02:13:15] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=6, y=113, z=568}
+[02:13:15] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=6, y=114, z=572}
+[02:13:15] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=6, y=109, z=578}
+[02:13:15] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-16, y=93, z=628}
+[02:13:16] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-16, y=59, z=628}
+[02:13:17] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=8, y=109, z=554}
+[02:13:17] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=8, y=108, z=553}
+[02:13:17] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=8, y=113, z=554}
+[02:13:17] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=8, y=109, z=569}
+[02:13:17] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=8, y=113, z=568}
+[02:13:17] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=8, y=109, z=576}
+[02:13:17] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=8, y=114, z=576}
+[02:13:18] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-36, y=92, z=628}
+[02:13:18] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-38, y=92, z=628}
+[02:13:23] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:13:23] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[02:13:23] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=49, y=-48, z=-413}
+[02:13:23] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=49, y=-48, z=-415}
+[02:18:29] [Server thread/INFO]: juam_RG went off with a bang
+[02:18:32] [Server thread/INFO]: JoseHernandez was slain by Vindicator
+[02:27:41] [Server thread/WARN]: Could not equip item '1 artifacts:flame_pendant' on spawned entity 'class_1613['Skeleton'/76851, l='ServerLevel[world]', x=20.50, y=22.00, z=-892.50]'
+[02:28:43] [Server thread/INFO]: [juam_RG: Gave 1 [Grand Bascinet] to juam_RG]
+[02:29:14] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:29:14] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:29:14] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:29:14] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:29:14] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:29:15] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:29:15] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:29:15] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:32:49] [Server thread/WARN]: Could not equip item '1 artifacts:bunny_hoppers' on spawned entity 'class_1642['Zombie'/83136, l='ServerLevel[world]', x=-412.50, y=-37.00, z=-1385.50]'
+[02:34:51] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=217, y=48, z=159}
+[02:35:47] [Server thread/INFO]: JoseHernandez has made the advancement [Safe Haven]
+[02:35:49] [Server thread/WARN]: Could not equip item '1 artifacts:scarf_of_invisibility' on spawned entity 'class_1642['Zombie'/87672, l='ServerLevel[world]', x=-862.50, y=-16.00, z=-2255.50]'
+[02:35:50] [Server thread/INFO]: juam_RG has made the advancement [Safe Haven]
+[02:39:04] [Server thread/INFO]: juam_RG has made the advancement [Amateur Archaeologist]
+[02:39:59] [Server thread/INFO]: JoseHernandez has made the advancement [Amateur Archaeologist]
+[02:40:54] [Server thread/WARN]: Could not equip item '1 artifacts:flame_pendant' on spawned entity 'class_1613['Skeleton'/91627, l='ServerLevel[world]', x=-829.50, y=-5.00, z=-2382.50]'
+[02:41:50] [Server thread/WARN]: Could not equip item '1 artifacts:bunny_hoppers' on spawned entity 'class_1642['Zombie'/92855, l='ServerLevel[world]', x=-906.50, y=25.00, z=-2442.50]'
+[02:48:14] [Server thread/INFO]: JoseHernandez tried to swim in lava
+[02:48:19] [Server thread/INFO]: juam_RG tried to swim in lava
+[02:50:25] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=202, y=47, z=211}
+[02:51:03] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=203, y=48, z=159}
+[02:51:58] [Server thread/WARN]: Could not equip item '1 artifacts:bunny_hoppers' on spawned entity 'class_1642['Zombie'/100336, l='ServerLevel[world]', x=-1028.50, y=32.00, z=-2269.50]'
+[02:55:40] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=203, y=48, z=159}
+[02:55:58] [Server thread/WARN]: JoseHernandez moved too quickly! -0.9160961066631899,-9.68838879282739,-4.125924617766486
+[02:56:07] [Server thread/INFO]: JoseHernandez was killed
+[02:56:07] [Server thread/INFO]: [juam_RG: Killed JoseHernandez]
+[02:56:21] [Server thread/INFO]: juam_RG was killed
+[02:56:21] [Server thread/INFO]: [juam_RG: Killed juam_RG]
+[03:00:32] [Server thread/WARN]: juam_RG moved wrongly!
+[03:00:47] [Server thread/WARN]: juam_RG moved wrongly!
+[03:01:07] [Server thread/WARN]: juam_RG moved wrongly!
+[03:01:15] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:01:22] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:02:25] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:04:17] [Server thread/WARN]: Could not equip item '1 artifacts:bunny_hoppers' on spawned entity 'class_1642['Zombie'/111405, l='ServerLevel[world]', x=-906.50, y=27.00, z=-2354.50]'
+[03:05:37] [Server thread/INFO]: JoseHernandez has made the advancement [Ghost Riders In The Sky]
+[03:06:17] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved wrongly! 0.3628757587985092
+[03:06:17] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved wrongly! 0.6318220210214349
+[03:06:17] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved wrongly! 0.8975765095478891
+[03:06:24] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:06:24] [Server thread/WARN]: juam_RG moved wrongly!
+[03:06:42] [Server thread/WARN]: juam_RG moved wrongly!
+[03:07:32] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:10:00] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:11:05] [Server thread/WARN]: juam_RG moved wrongly!
+[03:11:58] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:13:47] [Server thread/WARN]: juam_RG moved wrongly!
+[03:13:57] [Server thread/WARN]: juam_RG moved wrongly!
+[03:14:14] [Server thread/WARN]: juam_RG moved wrongly!
+[03:15:40] [Server thread/WARN]: juam_RG moved wrongly!
+[03:15:46] [Server thread/WARN]: juam_RG moved wrongly!
+[03:17:21] [Server thread/ERROR]: Can't access registry ResourceKey[minecraft:root / minecraft:game_event]
+[03:17:31] [Server thread/ERROR]: Can't access registry ResourceKey[minecraft:root / minecraft:game_event]
+[03:20:17] [Server thread/WARN]: juam_RG moved wrongly!
+[03:21:31] [Server thread/WARN]: JoseHernandez was kicked for floating a vehicle too long!
+[03:21:31] [Server thread/INFO]: JoseHernandez lost connection: Flying is not enabled on this server
+[03:21:31] [Server thread/INFO]: JoseHernandez left the game
+[03:21:31] [Server thread/INFO]: [voicechat] Disconnecting client JoseHernandez
+[03:21:31] [Server thread/WARN]: handleDisconnection() called twice
+[03:21:57] [Server thread/INFO]: JoseHernandez[/127.183.253.226:35343] logged in with entity id 127600 at (-604.5461313808495, 112.85359954833984, -1668.632820020981)
+[03:21:57] [Server thread/INFO]: JoseHernandez joined the game
+[03:21:57] [Server thread/INFO]: Sending item configs to client
+[03:21:57] [Server thread/INFO]: [voicechat] Received secret request of JoseHernandez (20)
+[03:21:57] [Server thread/INFO]: [voicechat] Sent secret to JoseHernandez
+[03:23:56] [Server thread/WARN]: JoseHernandez was kicked for floating a vehicle too long!
+[03:23:56] [Server thread/INFO]: JoseHernandez lost connection: Flying is not enabled on this server
+[03:23:56] [Server thread/INFO]: JoseHernandez left the game
+[03:23:56] [Server thread/INFO]: [voicechat] Disconnecting client JoseHernandez
+[03:24:07] [Server thread/INFO]: JoseHernandez[/127.183.253.226:60745] logged in with entity id 134061 at (-409.4117129657608, 141.7528076171875, -765.0918530248931)
+[03:24:07] [Server thread/INFO]: JoseHernandez joined the game
+[03:24:07] [Server thread/INFO]: Sending item configs to client
+[03:24:07] [Server thread/INFO]: [voicechat] Received secret request of JoseHernandez (20)
+[03:24:07] [Server thread/INFO]: [voicechat] Sent secret to JoseHernandez
+[03:25:02] [Server thread/WARN]: Could not equip item '1 artifacts:flame_pendant' on spawned entity 'class_1613['Skeleton'/136488, l='ServerLevel[world]', x=-339.50, y=50.00, z=-139.50]'
+[03:25:31] [Server thread/WARN]: juam_RG moved wrongly!
+[03:26:06] [Server thread/WARN]: juam_RG moved wrongly!
+[03:26:06] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved wrongly! 0.46804084467993334
+[03:26:06] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved wrongly! 0.9465509803790155
+[03:26:06] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved wrongly! 1.4215547203640426
+[03:26:06] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved wrongly! 1.8955937327517063
+[03:26:06] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved wrongly! 0.4624856386674878
+[03:26:06] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved wrongly! 0.32421600095443637
+[03:26:18] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:26:27] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:26:29] [Server thread/INFO]: [Not Secure] <juam_RG> ZZZzzzz
+[03:26:51] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:27:25] [Server thread/WARN]: Could not equip item '1 artifacts:bunny_hoppers' on spawned entity 'class_1642['Zombie'/139583, l='ServerLevel[world]', x=-311.50, y=20.00, z=-125.50]'
+[03:27:31] [Server thread/WARN]: juam_RG was kicked for floating a vehicle too long!
+[03:27:31] [Server thread/INFO]: juam_RG lost connection: Flying is not enabled on this server
+[03:27:31] [Server thread/INFO]: juam_RG left the game
+[03:27:31] [Server thread/INFO]: [voicechat] Disconnecting client juam_RG
+[03:27:39] [Server thread/INFO]: juam_RG[/127.183.253.226:48695] logged in with entity id 140077 at (-359.953783797165, 90.13031005859375, -181.66284809323432)
+[03:27:39] [Server thread/INFO]: juam_RG joined the game
+[03:27:39] [Server thread/INFO]: Sending item configs to client
+[03:27:39] [Server thread/INFO]: [voicechat] Received secret request of juam_RG (20)
+[03:27:39] [Server thread/INFO]: [voicechat] Sent secret to juam_RG
+[03:28:03] [Server thread/WARN]: juam_RG was kicked for floating a vehicle too long!
+[03:28:03] [Server thread/INFO]: juam_RG lost connection: Flying is not enabled on this server
+[03:28:03] [Server thread/INFO]: juam_RG left the game
+[03:28:03] [Server thread/INFO]: [voicechat] Disconnecting client juam_RG
+[03:28:10] [Server thread/INFO]: juam_RG[/127.183.253.226:56555] logged in with entity id 141125 at (-408.26549528630306, 129.36285400390625, -422.50316278496155)
+[03:28:10] [Server thread/INFO]: juam_RG joined the game
+[03:28:10] [Server thread/INFO]: Sending item configs to client
+[03:28:10] [Server thread/INFO]: [voicechat] Received secret request of juam_RG (20)
+[03:28:10] [Server thread/INFO]: [voicechat] Sent secret to juam_RG
+[03:28:29] [Server thread/WARN]: juam_RG was kicked for floating a vehicle too long!
+[03:28:29] [Server thread/INFO]: juam_RG lost connection: Flying is not enabled on this server
+[03:28:29] [Server thread/INFO]: juam_RG left the game
+[03:28:29] [Server thread/INFO]: [voicechat] Disconnecting client juam_RG
+[03:28:31] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:28:31] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:28:31] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:28:31] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:28:31] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:28:32] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:28:32] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:28:32] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:28:32] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:28:32] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:28:32] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:28:32] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:28:32] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:28:38] [Server thread/INFO]: juam_RG[/127.183.253.226:51195] logged in with entity id 141992 at (-438.10884973642595, 153.5190887451172, -593.2604121703256)
+[03:28:39] [Server thread/INFO]: juam_RG joined the game
+[03:28:39] [Server thread/INFO]: Sending item configs to client
+[03:28:39] [Server thread/INFO]: [voicechat] Received secret request of juam_RG (20)
+[03:28:39] [Server thread/INFO]: [voicechat] Sent secret to juam_RG
+[03:29:34] [Server thread/WARN]: juam_RG was kicked for floating a vehicle too long!
+[03:29:34] [Server thread/INFO]: juam_RG lost connection: Flying is not enabled on this server
+[03:29:34] [Server thread/INFO]: juam_RG left the game
+[03:29:34] [Server thread/INFO]: [voicechat] Disconnecting client juam_RG
+[03:29:42] [Server thread/INFO]: juam_RG[/127.183.253.226:37409] logged in with entity id 143825 at (-664.3602356749042, 227.92274475097656, -1066.0484953300825)
+[03:29:42] [Server thread/INFO]: juam_RG joined the game
+[03:29:42] [Server thread/INFO]: Sending item configs to client
+[03:29:42] [Server thread/INFO]: [voicechat] Received secret request of juam_RG (20)
+[03:29:42] [Server thread/INFO]: [voicechat] Sent secret to juam_RG
+[03:29:46] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=15, y=-40, z=-499}
+[03:29:46] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=15, y=-40, z=-503}
+[03:29:59] [Server thread/WARN]: JoseHernandez was kicked for floating a vehicle too long!
+[03:29:59] [Server thread/INFO]: JoseHernandez lost connection: Flying is not enabled on this server
+[03:29:59] [Server thread/INFO]: JoseHernandez left the game
+[03:29:59] [Server thread/INFO]: [voicechat] Disconnecting client JoseHernandez
+[03:30:12] [Server thread/INFO]: JoseHernandez[/127.183.253.226:43821] logged in with entity id 144595 at (-759.2849915928595, 199.35731506347656, -1211.8914944162664)
+[03:30:12] [Server thread/INFO]: JoseHernandez joined the game
+[03:30:12] [Server thread/INFO]: Sending item configs to client
+[03:30:13] [Server thread/INFO]: [voicechat] Received secret request of JoseHernandez (20)
+[03:30:13] [Server thread/INFO]: [voicechat] Sent secret to JoseHernandez
+[03:30:27] [Server thread/INFO]: juam_RG has made the advancement [Jaws]
+[03:31:01] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved too quickly! -1.5393740320425877,1.3321644259698076,-9.973478248555693
+[03:31:01] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved too quickly! -1.6320953535723675,1.4574133619593397,-10.574212084856981
+[03:31:01] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved too quickly! -1.7240220515868714,1.5873929785783503,-11.169797616800906
+[03:31:01] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved too quickly! -1.815175317743524,1.7210971936246153,-11.760372147267617
+[03:31:01] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved too quickly! -1.905578287570279,1.85773092059884,-12.346085576296218
+[03:31:01] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved too quickly! -1.9954746114490263,1.9969595916763865,-12.926868769457997
+[03:31:01] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved too quickly! -2.085868508740873,2.138749581390755,-13.502378311138727
+[03:31:01] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved too quickly! -2.1782314609114337,2.283249092470072,-14.07204960901936
+[03:31:01] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved too quickly! -2.274276839138338,2.430698510326465,-14.63512730926277
+[03:32:07] [Server thread/WARN]: juam_RG moved wrongly!
+[03:32:52] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:35:37] [Server thread/WARN]: juam_RG moved wrongly!
+[03:36:48] [Server thread/INFO]: juam_RG has made the advancement [Ghost Riders In The Sky]
+[03:36:50] [Server thread/WARN]: juam_RG moved wrongly!
+[03:36:52] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:37:30] [Server thread/INFO]: juam_RG was doomed to fall by Spider
+[03:38:10] [Server thread/INFO]: JoseHernandez was killed while fighting Hoglin
+[03:38:10] [Server thread/INFO]: [juam_RG: Killed JoseHernandez]
+[03:38:35] [Server thread/WARN]: juam_RG moved wrongly!
+[03:39:27] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:39:31] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:39:51] [Server thread/WARN]: Could not equip item '1 artifacts:flame_pendant' on spawned entity 'class_1613['Skeleton'/157539, l='ServerLevel[world]', x=-928.50, y=32.00, z=-2350.50]'
+[03:39:56] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:40:23] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:40:45] [Server thread/WARN]: juam_RG moved wrongly!
+[03:40:56] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:41:42] [Server thread/WARN]: juam_RG moved wrongly!
+[03:41:46] [Server thread/INFO]: juam_RG fell from a high place
+[03:41:48] [Server thread/WARN]: Could not equip item '1 artifacts:cowboy_hat' on spawned entity 'class_1642['Zombie'/159511, l='ServerLevel[world]', x=-882.50, y=23.00, z=-2309.50]'
+[03:42:27] [Server thread/WARN]: Could not equip item '1 artifacts:cowboy_hat' on spawned entity 'class_1642['Zombie'/160161, l='ServerLevel[world]', x=-859.50, y=-23.00, z=-2369.50]'
+[03:42:33] [Server thread/WARN]: juam_RG moved wrongly!
+[03:43:28] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:43:57] [Server thread/WARN]: juam_RG moved wrongly!
+[03:44:17] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:44:26] [Server thread/WARN]: juam_RG moved wrongly!
+[03:44:31] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:44:35] [Server thread/WARN]: juam_RG moved wrongly!
+[03:46:02] [Server thread/WARN]: Could not equip item '1 artifacts:flame_pendant' on spawned entity 'class_1613['Skeleton'/164503, l='ServerLevel[world]', x=-876.50, y=29.00, z=-2348.50]'
+[03:46:54] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:47:00] [Server thread/WARN]: juam_RG moved wrongly!
+[03:47:16] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>class_1844[potion=Optional[Reference{ResourceKey[minecraft:potion / minecraft:strong_healing]=net.minecraft.class_1842@1affedcf}], customColor=Optional.empty, customEffects=[]]}' to item: 'Item stack with stack size of 2 was larger than maximum: 1'
+[03:47:26] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>class_1844[potion=Optional[Reference{ResourceKey[minecraft:potion / minecraft:strong_healing]=net.minecraft.class_1842@1affedcf}], customColor=Optional.empty, customEffects=[]]}' to item: 'Item stack with stack size of 2 was larger than maximum: 1'
+[03:47:26] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>class_1844[potion=Optional[Reference{ResourceKey[minecraft:potion / minecraft:strong_healing]=net.minecraft.class_1842@1affedcf}], customColor=Optional.empty, customEffects=[]]}' to item: 'Item stack with stack size of 2 was larger than maximum: 1'
+[03:47:45] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>class_1844[potion=Optional[Reference{ResourceKey[minecraft:potion / minecraft:strong_healing]=net.minecraft.class_1842@1affedcf}], customColor=Optional.empty, customEffects=[]]}' to item: 'Item stack with stack size of 3 was larger than maximum: 1'
+[03:47:51] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>class_1844[potion=Optional[Reference{ResourceKey[minecraft:potion / minecraft:strong_healing]=net.minecraft.class_1842@1affedcf}], customColor=Optional.empty, customEffects=[]]}' to item: 'Item stack with stack size of 3 was larger than maximum: 1'
+[03:47:56] [Server thread/INFO]: juam_RG has made the advancement [Ice Bucket Challenge]
+[03:48:31] [Server thread/INFO]: juam_RG was doomed to fall by Creeper
+[03:48:34] [Server thread/WARN]: Could not equip item '1 artifacts:bunny_hoppers' on spawned entity 'class_1642['Zombie'/166764, l='ServerLevel[world]', x=-924.50, y=17.00, z=-2351.50]'
+[03:49:07] [Server thread/INFO]: Villager class_1646['Librarian'/147710, l='ServerLevel[world]', x=-724.07, y=63.00, z=-2342.59] died, message: 'Librarian was shot by Pillager'
+[03:49:51] [Server thread/WARN]: juam_RG moved wrongly!
+[03:50:40] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>class_1844[potion=Optional[Reference{ResourceKey[minecraft:potion / minecraft:strong_healing]=net.minecraft.class_1842@1affedcf}], customColor=Optional.empty, customEffects=[]]}' to item: 'Item stack with stack size of 2 was larger than maximum: 1'
+[03:52:51] [Server thread/INFO]: JoseHernandez fell from a high place
+[03:53:14] [Server thread/WARN]: juam_RG moved wrongly!
+[03:53:20] [Server thread/WARN]: juam_RG moved wrongly!
+[03:55:42] [Server thread/WARN]: juam_RG moved wrongly!
+[03:55:45] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:55:55] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved wrongly! 1.5091636656025003
+[03:55:55] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved wrongly! 0.9451599319718298
+[03:55:55] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved wrongly! 0.2719481996214199
+[03:55:55] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved wrongly! 1.6320847516167305
+[03:55:55] [Server thread/WARN]: Biplane (vehicle of JoseHernandez) moved wrongly! 1.6020987047077142
+[03:56:09] [Server thread/WARN]: Could not equip item '1 artifacts:plastic_drinking_hat' on spawned entity 'class_1613['Skeleton'/172817, l='ServerLevel[world]', x=-831.50, y=31.00, z=-2127.50]'
+[03:56:25] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:56:27] [Server thread/WARN]: juam_RG moved wrongly!
+[03:57:12] [Server thread/WARN]: Could not equip item '1 artifacts:flame_pendant' on spawned entity 'class_1613['Skeleton'/173882, l='ServerLevel[world]', x=-817.50, y=33.00, z=-2110.50]'
+[03:58:03] [Server thread/INFO]: JoseHernandez has made the advancement [Jaws]
+[03:58:25] [Server thread/WARN]: JoseHernandez moved wrongly!
+[03:58:26] [Server thread/WARN]: juam_RG moved wrongly!
+[04:01:01] [Server thread/WARN]: Could not equip item '1 artifacts:scarf_of_invisibility' on spawned entity 'class_1642['Zombie'/177520, l='ServerLevel[world]', x=-618.50, y=-40.00, z=-1475.50]'
+[04:01:18] [Server thread/WARN]: JoseHernandez moved wrongly!
+[04:01:29] [Server thread/WARN]: juam_RG moved wrongly!
+[04:02:08] [Server thread/WARN]: juam_RG moved wrongly!
+[04:03:43] [Server thread/WARN]: JoseHernandez moved wrongly!
+[04:03:48] [Server thread/WARN]: juam_RG moved wrongly!
+[04:04:15] [Server thread/WARN]: juam_RG was kicked for floating a vehicle too long!
+[04:04:15] [Server thread/INFO]: juam_RG lost connection: Flying is not enabled on this server
+[04:04:15] [Server thread/INFO]: juam_RG left the game
+[04:04:15] [Server thread/INFO]: [voicechat] Disconnecting client juam_RG
+[04:04:22] [Server thread/INFO]: juam_RG[/127.183.253.226:60401] logged in with entity id 181862 at (-905.8083288620988, 90.62822723388672, -2343.0872452828326)
+[04:04:22] [Server thread/INFO]: juam_RG joined the game
+[04:04:22] [Server thread/INFO]: Sending item configs to client
+[04:04:22] [Server thread/INFO]: [voicechat] Received secret request of juam_RG (20)
+[04:04:22] [Server thread/INFO]: [voicechat] Sent secret to juam_RG
+[04:04:49] [Server thread/WARN]: Could not equip item '1 artifacts:scarf_of_invisibility' on spawned entity 'class_1642['Zombie'/182674, l='ServerLevel[world]', x=-1071.50, y=12.00, z=-2540.50]'
+[04:04:53] [Server thread/WARN]: juam_RG was kicked for floating a vehicle too long!
+[04:04:53] [Server thread/INFO]: juam_RG lost connection: Flying is not enabled on this server
+[04:04:53] [Server thread/INFO]: juam_RG left the game
+[04:04:53] [Server thread/INFO]: [voicechat] Disconnecting client juam_RG
+[04:05:00] [Server thread/INFO]: juam_RG[/127.183.253.226:34513] logged in with entity id 182950 at (-1064.086660193688, 120.9002456665039, -2598.6823160889367)
+[04:05:00] [Server thread/INFO]: juam_RG joined the game
+[04:05:00] [Server thread/INFO]: Sending item configs to client
+[04:05:00] [Server thread/INFO]: [voicechat] Received secret request of juam_RG (20)
+[04:05:00] [Server thread/INFO]: [voicechat] Sent secret to juam_RG
+[04:05:31] [Server thread/WARN]: juam_RG was kicked for floating a vehicle too long!
+[04:05:31] [Server thread/INFO]: juam_RG lost connection: Flying is not enabled on this server
+[04:05:31] [Server thread/INFO]: juam_RG left the game
+[04:05:31] [Server thread/INFO]: [voicechat] Disconnecting client juam_RG
+[04:05:38] [Server thread/INFO]: juam_RG[/127.183.253.226:41679] logged in with entity id 184203 at (-1147.0608672925623, 153.5001220703125, -2814.4009041759236)
+[04:05:38] [Server thread/INFO]: juam_RG joined the game
+[04:05:38] [Server thread/INFO]: Sending item configs to client
+[04:05:39] [Server thread/INFO]: [voicechat] Received secret request of juam_RG (20)
+[04:05:39] [Server thread/INFO]: [voicechat] Sent secret to juam_RG
+[04:06:09] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=203, y=48, z=159}
+[04:06:27] [Server thread/WARN]: juam_RG moved wrongly!
+[04:07:06] [Server thread/INFO]: juam_RG has made the advancement [The Lighthouse]
+[04:07:13] [Server thread/WARN]: juam_RG moved wrongly!
+[04:09:13] [Server thread/INFO]: [Not Secure] <JoseHernandez> juan lo cama
+[04:09:18] [Server thread/INFO]: [Not Secure] <JoseHernandez> zzzzzzzzzzzzzzzzzzzz
+[04:10:23] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=203, y=48, z=159}
+[04:10:23] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-318, y=-45, z=-204}
+[04:10:23] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-318, y=-45, z=-202}
+[04:10:23] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-320, y=-45, z=-203}
+[04:10:25] [Server thread/WARN]: Could not equip item '1 artifacts:flame_pendant' on spawned entity 'class_1613['Skeleton'/192262, l='ServerLevel[world]', x=-36.50, y=25.00, z=-2660.50]'
+[04:10:57] [Server thread/WARN]: Biplane (vehicle of juam_RG) moved too quickly! -8.196972701683706,1.2137329427108483,-5.892179934476189
+[04:10:57] [Server thread/WARN]: Biplane (vehicle of juam_RG) moved too quickly! -8.455483783860082,1.1704978837605466,-5.955012818760224
+[04:10:57] [Server thread/WARN]: Biplane (vehicle of juam_RG) moved too quickly! -8.700262444093745,1.119951337119474,-6.01076566921256
+[04:10:57] [Server thread/WARN]: Biplane (vehicle of juam_RG) moved too quickly! -8.932225589744974,1.0626116973916453,-6.0604121978271905
+[04:10:57] [Server thread/WARN]: Biplane (vehicle of juam_RG) moved too quickly! -9.152308650469259,0.9989939902411606,-6.104795580185055
+[04:10:57] [Server thread/WARN]: Biplane (vehicle of juam_RG) moved too quickly! -9.361449604888001,0.9296050758304233,-6.144644733100904
+[04:10:57] [Server thread/WARN]: Biplane (vehicle of juam_RG) moved too quickly! -9.5605754270048,0.8549391824636672,-6.180588994654954
+[04:10:57] [Server thread/WARN]: Biplane (vehicle of juam_RG) moved too quickly! -9.750590675588029,0.7754738265083176,-6.2131712183627315
+[04:10:57] [Server thread/WARN]: Biplane (vehicle of juam_RG) moved too quickly! -9.932366617698342,0.6916658818197305,-6.242859331086493
+[04:11:12] [Server thread/WARN]: juam_RG moved wrongly!
+[04:13:22] [Server thread/INFO]: juam_RG has made the advancement [Refined Iron]
+[04:14:43] [Server thread/WARN]: juam_RG moved wrongly!
+[04:14:44] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-1741, y=-49, z=-1834}
+[04:14:52] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-1773, y=-49, z=-1804}
+[04:14:53] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-1718, y=-49, z=-1848}
+[04:14:53] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-1718, y=-49, z=-1848}
+[04:14:53] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-1718, y=-49, z=-1800}
+[04:14:53] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-1737, y=-49, z=-1804}
+[04:15:03] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-1773, y=-49, z=-1866}
+[04:15:05] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-1718, y=-49, z=-1848}
+[04:15:05] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-1718, y=-49, z=-1848}
+[04:15:05] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-1759, y=-49, z=-1791}
+[04:15:05] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-1718, y=-49, z=-1848}
+[04:18:51] [Server thread/INFO]: [Not Secure] <juam_RG> jose lo que encontre
+[04:19:04] [Server thread/INFO]: [Not Secure] <JoseHernandez> que cos
+[04:19:27] [Server thread/INFO]: [Not Secure] <JoseHernandez> que cosa
+[04:19:30] [Server thread/WARN]: Could not equip item '1 artifacts:novelty_drinking_hat' on spawned entity 'class_1613['Skeleton'/201782, l='ServerLevel[world]', x=85.50, y=59.00, z=-2565.50]'
+[04:19:31] [Server thread/INFO]: [Not Secure] <JoseHernandez> ?
+[04:19:32] [Server thread/INFO]: [Not Secure] <juam_RG> ben mira
+[04:19:40] [Server thread/INFO]: juam_RG has made the advancement [Scary Monsters And Super Creeps]
+[04:19:41] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-176, y=-50, z=-133}
+[04:19:41] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-172, y=-50, z=-135}
+[04:20:18] [Server thread/INFO]: [Not Secure] <JoseHernandez> Donde estas
+[04:20:48] [Server thread/INFO]: [Not Secure] <juam_RG> ben al cuarto
+[04:21:00] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-274, y=-57, z=-245}
+[04:21:00] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-276, y=-57, z=-243}
+[04:21:00] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-277, y=-57, z=-244}
+[04:21:01] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-187, y=-46, z=-151}
+[04:21:01] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-187, y=-46, z=-143}
+[04:21:01] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-185, y=-46, z=-142}
+[04:21:36] [Server thread/WARN]: juam_RG moved wrongly!
+[04:22:23] [Server thread/INFO]: juam_RG was slain by Wither Skeleton
+[04:22:34] [Server thread/INFO]: Villager class_1646['Villager'/181141, l='ServerLevel[world]', x=-823.49, y=77.00, z=-2336.25] died, message: 'Villager was slain by Zombie'
+[04:23:29] [Server thread/INFO]: [Not Secure] <juam_RG> ZZzzzz
+[04:23:31] [Server thread/INFO]: [Not Secure] <juam_RG> ZZZzzzz
+[04:23:54] [Server thread/INFO]: [Not Secure] <JoseHernandez> az
+[04:23:55] [Server thread/INFO]: [Not Secure] <JoseHernandez> z
+[04:23:56] [Server thread/INFO]: [Not Secure] <JoseHernandez> z
+[04:23:56] [Server thread/INFO]: [Not Secure] <JoseHernandez> z
+[04:23:56] [Server thread/INFO]: [Not Secure] <JoseHernandez> z
+[04:23:56] [Server thread/INFO]: [Not Secure] <JoseHernandez> z
+[04:23:56] [Server thread/INFO]: [Not Secure] <JoseHernandez> z
+[04:23:57] [Server thread/INFO]: [Not Secure] <JoseHernandez> zz
+[04:23:57] [Server thread/INFO]: [Not Secure] <JoseHernandez> z
+[04:23:57] [Server thread/INFO]: [Not Secure] <JoseHernandez> z
+[04:23:57] [Server thread/INFO]: [Not Secure] <JoseHernandez> z
+[04:23:57] [Server thread/INFO]: [Not Secure] <JoseHernandez> z
+[04:23:58] [Server thread/INFO]: [Not Secure] <JoseHernandez> z
+[04:23:58] [Server thread/INFO]: [Not Secure] <JoseHernandez> z
+[04:23:58] [Server thread/INFO]: JoseHernandez lost connection: Kicked for spamming
+[04:23:58] [Server thread/INFO]: JoseHernandez left the game
+[04:23:58] [Server thread/INFO]: [voicechat] Disconnecting client JoseHernandez
+[04:24:18] [Server thread/INFO]: JoseHernandez[/127.183.253.226:33957] logged in with entity id 208971 at (-700.5, 64.6875, -2133.5)
+[04:24:18] [Server thread/INFO]: JoseHernandez joined the game
+[04:24:18] [Server thread/INFO]: Sending item configs to client
+[04:24:18] [Server thread/INFO]: [voicechat] Received secret request of JoseHernandez (20)
+[04:24:18] [Server thread/INFO]: [voicechat] Sent secret to JoseHernandez
+[04:24:39] [Server thread/WARN]: juam_RG was kicked for floating a vehicle too long!
+[04:24:39] [Server thread/INFO]: juam_RG lost connection: Flying is not enabled on this server
+[04:24:39] [Server thread/INFO]: juam_RG left the game
+[04:24:39] [Server thread/INFO]: [voicechat] Disconnecting client juam_RG
+[04:24:46] [Server thread/INFO]: juam_RG[/127.183.253.226:46229] logged in with entity id 210343 at (-431.1413004416368, 107.28031158447266, -128.37876374763283)
+[04:24:46] [Server thread/INFO]: juam_RG joined the game
+[04:24:46] [Server thread/INFO]: Sending item configs to client
+[04:24:46] [Server thread/INFO]: [voicechat] Received secret request of juam_RG (20)
+[04:24:46] [Server thread/INFO]: [voicechat] Sent secret to juam_RG
+[04:25:04] [Server thread/WARN]: Could not equip item '1 artifacts:novelty_drinking_hat' on spawned entity 'class_1613['Skeleton'/211069, l='ServerLevel[world]', x=-414.50, y=-4.00, z=-170.50]'
+[04:25:25] [Server thread/WARN]: juam_RG was kicked for floating a vehicle too long!
+[04:25:25] [Server thread/INFO]: juam_RG lost connection: Flying is not enabled on this server
+[04:25:25] [Server thread/INFO]: juam_RG left the game
+[04:25:25] [Server thread/INFO]: [voicechat] Disconnecting client juam_RG
+[04:25:34] [Server thread/INFO]: juam_RG[/127.183.253.226:35843] logged in with entity id 211845 at (-464.04335492734356, 137.63311767578125, -431.1901410629688)
+[04:25:34] [Server thread/INFO]: juam_RG joined the game
+[04:25:34] [Server thread/INFO]: Sending item configs to client
+[04:25:34] [Server thread/INFO]: [voicechat] Received secret request of juam_RG (20)
+[04:25:34] [Server thread/INFO]: [voicechat] Sent secret to juam_RG
+[04:26:00] [Server thread/WARN]: juam_RG was kicked for floating a vehicle too long!
+[04:26:00] [Server thread/INFO]: juam_RG lost connection: Flying is not enabled on this server
+[04:26:00] [Server thread/INFO]: juam_RG left the game
+[04:26:00] [Server thread/INFO]: [voicechat] Disconnecting client juam_RG
+[04:26:09] [Server thread/INFO]: juam_RG[/127.183.253.226:59977] logged in with entity id 212929 at (-498.43463610521985, 170.2541961669922, -603.1492695202511)
+[04:26:09] [Server thread/INFO]: juam_RG joined the game
+[04:26:09] [Server thread/INFO]: Sending item configs to client
+[04:26:09] [Server thread/INFO]: [voicechat] Received secret request of juam_RG (20)
+[04:26:09] [Server thread/INFO]: [voicechat] Sent secret to juam_RG
+[04:26:54] [Server thread/INFO]: [Not Secure] <JoseHernandez> mi avion ?
+[04:26:58] [Server thread/INFO]: [Not Secure] <juam_RG> nose
+[04:27:05] [Server thread/WARN]: juam_RG was kicked for floating a vehicle too long!
+[04:27:05] [Server thread/INFO]: juam_RG lost connection: Flying is not enabled on this server
+[04:27:05] [Server thread/INFO]: juam_RG left the game
+[04:27:05] [Server thread/INFO]: [voicechat] Disconnecting client juam_RG
+[04:27:12] [Server thread/INFO]: juam_RG[/127.183.253.226:35823] logged in with entity id 215264 at (-680.1585510753397, 82.90059661865234, -1562.0114029670704)
+[04:27:12] [Server thread/INFO]: juam_RG joined the game
+[04:27:12] [Server thread/INFO]: Sending item configs to client
+[04:27:12] [Server thread/INFO]: [voicechat] Received secret request of juam_RG (20)
+[04:27:12] [Server thread/INFO]: [voicechat] Sent secret to juam_RG
+[04:27:39] [Server thread/WARN]: juam_RG was kicked for floating a vehicle too long!
+[04:27:39] [Server thread/INFO]: juam_RG lost connection: Flying is not enabled on this server
+[04:27:39] [Server thread/INFO]: juam_RG left the game
+[04:27:39] [Server thread/INFO]: [voicechat] Disconnecting client juam_RG
+[04:27:47] [Server thread/INFO]: juam_RG[/127.183.253.226:49439] logged in with entity id 215989 at (-718.0635729220844, 111.49203491210938, -1728.643561805097)
+[04:27:47] [Server thread/INFO]: juam_RG joined the game
+[04:27:47] [Server thread/INFO]: Sending item configs to client
+[04:27:47] [Server thread/INFO]: [voicechat] Received secret request of juam_RG (20)
+[04:27:47] [Server thread/INFO]: [voicechat] Sent secret to juam_RG
+[04:28:18] [Server thread/WARN]: juam_RG was kicked for floating a vehicle too long!
+[04:28:18] [Server thread/INFO]: juam_RG lost connection: Flying is not enabled on this server
+[04:28:18] [Server thread/INFO]: juam_RG left the game
+[04:28:18] [Server thread/INFO]: [voicechat] Disconnecting client juam_RG
+[04:28:20] [Server thread/INFO]: [Not Secure] <JoseHernandez> prestame el avion
+[04:28:29] [Server thread/INFO]: juam_RG[/127.183.253.226:58517] logged in with entity id 217093 at (-760.2009587667088, 141.77940368652344, -1894.2306990593333)
+[04:28:29] [Server thread/INFO]: juam_RG joined the game
+[04:28:29] [Server thread/INFO]: Sending item configs to client
+[04:28:30] [Server thread/INFO]: [voicechat] Received secret request of juam_RG (20)
+[04:28:30] [Server thread/INFO]: [voicechat] Sent secret to juam_RG
+[04:29:30] [Server thread/WARN]: Could not equip item '1 artifacts:night_vision_goggles' on spawned entity 'class_1613['Skeleton'/218421, l='ServerLevel[world]', x=-882.50, y=22.00, z=-2315.50]'
+[04:31:15] [Server thread/WARN]: JoseHernandez moved wrongly!
+[04:31:16] [Server thread/WARN]: juam_RG moved wrongly!
+[04:31:57] [Server thread/WARN]: JoseHernandez moved wrongly!
+[04:32:06] [Server thread/WARN]: juam_RG moved wrongly!
+[04:32:08] [Server thread/WARN]: juam_RG moved wrongly!
+[04:32:15] [Server thread/WARN]: juam_RG moved wrongly!
+[04:32:25] [Server thread/INFO]: [juam_RG: Set own game mode to Spectator Mode]
+[04:32:25] [Server thread/INFO]: [juam_RG: Set own game mode to Survival Mode]
+[04:32:52] [Server thread/WARN]: juam_RG moved wrongly!
+[04:33:02] [Server thread/WARN]: juam_RG moved wrongly!
+[04:34:07] [Server thread/INFO]: [juam_RG: Set own game mode to Spectator Mode]
+[04:34:08] [Server thread/INFO]: [juam_RG: Set own game mode to Survival Mode]
+[04:35:41] [Server thread/WARN]: JoseHernandez moved wrongly!
+[04:36:06] [Server thread/INFO]: juam_RG lost connection: Disconnected
+[04:36:06] [Server thread/INFO]: juam_RG left the game
+[04:36:06] [Server thread/INFO]: [voicechat] Disconnecting client juam_RG
+[04:39:20] [Server thread/INFO]: Stopping the server
+[04:39:20] [Server thread/INFO]: UDP server is stopped
+[04:39:20] [Server thread/INFO]: Stopping server
+[04:39:20] [Server thread/INFO]: Saving players
+[04:39:20] [Server thread/INFO]: JoseHernandez lost connection: Server closed
+[04:39:20] [Server thread/INFO]: JoseHernandez left the game
+[04:39:20] [Server thread/INFO]: Saving worlds
+[04:39:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:39:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:39:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:39:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:39:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:39:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:39:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:39:21] [Server thread/INFO]: Unloading server configs...
+[04:39:21] [Server thread/INFO]: Finished unloading server configs
