@@ -1,0 +1,17 @@
+/tailscale-cs
+/work_area*
+composer.*
+/Python*
+*.output
+/Modgest
+/thanos
+/vendor
+/bkdir
+java/
+*.exe
+*.msi
+*.txt
+*.pyc
+*.msp
+*.msx
+msx.py

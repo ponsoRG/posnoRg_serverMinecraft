@@ -1,0 +1,74 @@
+[14:26:11] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.18.2
+[14:26:11] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[14:26:11] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.1
+[14:26:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Q:/Servidor%20de%20minecraft/posnoRg_serverMinecraft/MSX/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:26:26] [main/ERROR]: Failed to load properties from file: server.properties
+java.nio.file.NoSuchFileException: server.properties
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
+	at java.base/java.nio.file.Files.newInputStream(Files.java:159) ~[?:?]
+	at knot/net.minecraft.class_3808.method_16727(class_3808.java:62) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_3806.method_16714(class_3806.java:141) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_3807.<init>(class_3807.java:12) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:114) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+[14:26:26] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:26:28] [main/INFO]: No existing world data, creating new world
+[14:26:30] [main/INFO]: Loaded 1290 recipes
+[14:26:31] [main/INFO]: Loaded 1399 advancements
+[14:26:32] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[14:26:32] [Server thread/INFO]: Loading properties
+[14:26:32] [Server thread/INFO]: Default game type: SURVIVAL
+[14:26:32] [Server thread/INFO]: Generating keypair
+[14:26:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:26:32] [Server thread/INFO]: Using default channel type
+[14:26:32] [Server thread/INFO]: Preparing level "world"
+[14:26:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:26:45] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[14:26:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:26:46] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[14:26:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:26:47] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[14:26:48] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[14:26:48] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[14:26:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[14:26:49] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[14:26:50] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[14:26:50] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[14:26:51] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[14:26:51] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[14:26:52] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[14:26:52] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[14:26:53] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[14:26:53] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[14:26:54] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[14:26:54] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[14:26:55] [Worker-Main-2/INFO]: Preparing spawn area: 57%
+[14:26:55] [Server thread/INFO]: Time elapsed: 9621 ms
+[14:26:55] [Server thread/INFO]: Done (22.560s)! For help, type "help"
+[14:26:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:26:55] [Server thread/INFO]: <--[HERE]
+[14:27:16] [Server thread/INFO]: Stopping the server
+[14:27:16] [Server thread/INFO]: Stopping server
+[14:27:16] [Server thread/INFO]: Saving players
+[14:27:16] [Server thread/INFO]: Saving worlds
+[14:27:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:27:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:27:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:27:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:27:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:27:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:27:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
